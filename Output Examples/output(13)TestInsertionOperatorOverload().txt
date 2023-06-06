@@ -1,0 +1,21 @@
+--------
+ b b b b
+b b b b
+ b b b b
+
+
+r r r r
+ r r r r
+r r r r
+--------
+Testing Insertion Operator overload. Should see the board print as above.
+--------
+ b b b b
+b b b b
+ b b b b
+
+
+r r r r
+ r r r r
+r r r r
+--------

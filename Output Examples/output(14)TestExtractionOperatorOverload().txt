@@ -1,0 +1,21 @@
+--------
+ b b b b
+b b b b
+ b b b b
+
+
+r r r r
+ r r r r
+r r r r
+--------
+Testing Extraction Operator overload. Should b6 move to c5.
+--------
+ b b b b
+b b b b
+   b b b
+  b
+
+r r r r
+ r r r r
+r r r r
+--------
